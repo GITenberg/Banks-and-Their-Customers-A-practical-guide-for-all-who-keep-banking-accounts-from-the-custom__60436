@@ -1,5 +1,8 @@
 _repo: Banks-and-Their-Customers-A-practical-guide-for-all-who-keep-banking-accounts-from-the-custom__60436
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60436-h/images/cover.jpg
 creator:
   author:
     agent_name: Warren, Henry White
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6306
     wikipedia: http://discuss.iliff.edu/archives/warren/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60436#Banks-and-Their-Customers-A-practical-guide-for-all-who-keep-banking-accounts-from-the-custom_
 gutenberg_issued: '2019-10-06'
 gutenberg_type: Text
 identifiers:
